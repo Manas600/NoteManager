@@ -11,7 +11,7 @@ export function Header() {
       <div className="col-xs-12 col-sm-4">
         <Logo
           onClick={() => navigate("/")}
-          title="Notomatic"
+          title="Notemanager"
           subtitle="Manage your notes"
           image={logo}
         />
