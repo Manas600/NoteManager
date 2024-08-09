@@ -1,0 +1,10 @@
+.custom_link {
+  text-decoration: none;
+  color: #007bff;
+  transition: all 0.3s ease;
+}
+
+.custom_link:hover {
+  color: #004ea0;
+  text-decoration: underline;
+}
